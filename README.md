@@ -18,8 +18,8 @@ Search Plants: Search plants by name to quickly filter the list.
 
 ## Setup and Installation
 1. Clone the repository
-git clone https://github.com/yourusername/plantsy-crm.git
-cd plantsy-crm
+`git clone https://github.com/yourusername/react-hooks-cc-plantshop`
+`cd react-hooks-cc-plantshop`
 2.Run `npm install` in your terminal to install dependencies.
 2. Run `npm run server`. This will run your backend on port `6001`. To verify visit:http://localhost:6001/plants
 3. In a new terminal, run `npm start` to start the react application
